@@ -1,0 +1,1 @@
+<view><view>{{username}}</view><block wx:for="{{tels}}" wx:for-item="tel" wx:for-index="__i0__"><view>{{tel}}</view></block></view>
